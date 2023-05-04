@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f31e987-0e6c-470b-a604-98b30e7eb1f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/document.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1ba6b91011471c2ef2301299f42d1eb6b2122e8e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/66a303ad45def230374746a406dc6bfbe4bd8dff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/93985ae12c63e6b856b3bdbc570b83021d636b84" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9adcea39e5f37b79a57c9c507df50ab4f3273da3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a60662eceaa7dc3ae6842cc56ec7d9137a4f386b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bf08866899ddbfa2179595d6faf32bca0cc09f35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/cacb2132410c303dab5849a2c4cdde092ec92206" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/b/1ba6b91011471c2ef2301299f42d1eb6b2122e8e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/6/66a303ad45def230374746a406dc6bfbe4bd8dff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/3/93985ae12c63e6b856b3bdbc570b83021d636b84" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/a/9adcea39e5f37b79a57c9c507df50ab4f3273da3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/6/a60662eceaa7dc3ae6842cc56ec7d9137a4f386b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/f/bf08866899ddbfa2179595d6faf32bca0cc09f35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/a/cacb2132410c303dab5849a2c4cdde092ec92206" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LojaFini2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document/Relatorio.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document/cliente.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document/inventario.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document/produto.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document/vendedor.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/20841.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/add-user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/add-user2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/adicionar-ao-carrinho.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/desenvolvimento-de-produto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/fini.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/imprimir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/ingredientes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/inventario.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/lupa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/produtos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/lojafini2/application/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/lojafini2/data/model/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/lojafini2/data/model/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/lojafini2/data/model/Vendedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/lojafini2/factory/ConnectionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/lojafini2/factory/DbException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/lojafini2/factory/connection/ClienteDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/lojafini2/services/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/lojafini2/util/pdf/PdfText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/lojafini2/view/AdminView.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/lojafini2/view/AdminView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/lojafini2/view/LoginView.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/lojafini2/view/LoginView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/lojafini2/view/VendaView.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/lojafini2/view/VendaView.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OhVzrgYDbXndtx97dVOnuFop0F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.STATE": "right",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH": "473",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.STATE": "left",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "import_schema_mapping": "<schema-mapping>\n  <databases>\n    <list>\n      <schema-mapping-item>\n        <source-data-source-id>b615fa1d-f97e-4c12-a0a6-0268ba9979ee</source-data-source-id>\n        <source-path>schema/&quot;lojafini&quot;</source-path>\n        <target-data-source-id>b615fa1d-f97e-4c12-a0a6-0268ba9979ee</target-data-source-id>\n        <target-path>schema/&quot;lojafini&quot;</target-path>\n      </schema-mapping-item>\n    </list>\n  </databases>\n</schema-mapping>",
+    "last_opened_file_path": "E:/projetos/LojaFini2/conection",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.15429688",
+    "project.structure.side.proportion": "0.47976878",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "show.migrate.to.gradle.popup": "false",
+    "spring.configuration.checksum": "d41d8cd98f00b204e9800998ecf8427e",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\projetos\LojaFini2\conection" />
+      <recent name="E:\projetos\LojaFini2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.lojafini2.factory.connection" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="AdminView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.lojafini2.view.AdminView" />
+      <module name="LojaFini2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.lojafini2.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.lojafini2.view.LoginTest" />
+      <module name="LojaFini2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.lojafini2.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.lojafini2.view.LoginView" />
+      <module name="LojaFini2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.lojafini2.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.lojafini2.application.Main" />
+      <module name="LojaFini2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.lojafini2.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VendaView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.lojafini2.view.VendaView" />
+      <module name="LojaFini2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.lojafini2.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.AdminView" />
+        <item itemvalue="Application.VendaView" />
+        <item itemvalue="Application.LoginView" />
+        <item itemvalue="Application.LoginTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f31e987-0e6c-470b-a604-98b30e7eb1f1" name="Changes" comment="" />
+      <created>1682013066223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682013066223</updated>
+      <workItem from="1682013067267" duration="611000" />
+      <workItem from="1682013974850" duration="6940000" />
+      <workItem from="1682336542274" duration="36000" />
+      <workItem from="1682619931844" duration="482000" />
+      <workItem from="1682997258835" duration="75000" />
+      <workItem from="1682997785828" duration="17000" />
+      <workItem from="1683030817781" duration="21963000" />
+      <workItem from="1683116636097" duration="17412000" />
+      <workItem from="1683137727404" duration="2633000" />
+      <workItem from="1683142104640" duration="3000" />
+      <workItem from="1683202367860" duration="6509000" />
+      <workItem from="1683209310285" duration="107000" />
+      <workItem from="1683209491311" duration="289000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
